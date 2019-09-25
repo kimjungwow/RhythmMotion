@@ -1,5 +1,5 @@
 # RhythmMotion
-- This project was done in 2018 Winter-CS496(Madcamp) course at KAIST university in a team of 2.
+- This project was done in 2018 Winter-CS496(Madcamp) course at KAIST university in a team of 2.  
 플레이 영상 : Woo  
 [![Watch the video](https://img.youtube.com/vi/HH7rXMHCZb0/0.jpg)](https://youtu.be/HH7rXMHCZb0)  
   
